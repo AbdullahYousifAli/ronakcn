@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ronakcn.softisn.com/logo.svg" width="120" alt="RonakCN Logo" />
+  <img src="assets/RonakCN-Logo.png" width="120" alt="RonakCN Logo" />
 </p>
 
 <h1 align="center">RonakCN</h1>
